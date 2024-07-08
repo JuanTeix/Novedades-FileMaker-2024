@@ -13,8 +13,8 @@ Este repositorio está dedicado a explorar las nuevas y emocionantes caracterís
 
 ## Recursos
 
-- [Documentación Oficial de Claris sobre FileMaker 2024]([https://www.claris.com/filemaker/](https://help.claris.com/es/pro-release-notes/content/index.html))
-- [Nuestro Canal de YouTube]([https://www.youtube.com/tu-canal](https://youtu.be/2M5iPUiWgvI))
+- [Documentación Oficial de Claris sobre FileMaker 2024](https://help.claris.com/es/pro-release-notes/content/index.html)
+- [Nuestro Canal de YouTube](https://youtu.be/2M5iPUiWgvI)
 
 ## Cómo Contribuir
 
@@ -26,7 +26,7 @@ Este repositorio está dedicado a explorar las nuevas y emocionantes caracterís
 
 ## Contacto
 
-Para preguntas, sugerencias o colaboración, no dudes en contactarnos a través de [nuestro correo electrónico](mailto:jteixcode@gmail.com) o únete a la conversación en [nuestro telegram]([https://www.tu-foro.com](https://t.me/JteixCode)).
+Para preguntas, sugerencias o colaboración, no dudes en contactarnos a través de [nuestro correo electrónico](mailto:jteixcode@gmail.com) o únete a la conversación en [nuestro telegram](https://t.me/JteixCode).
 
 ---
 
